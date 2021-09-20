@@ -1,0 +1,15 @@
+This poject developed by Soheil Nikroo for WD Advanced Programming Class.
+This is an English to Persian translation dictionary. The dictionary isn't
+case sensitive, you can type a sentence and have a word-word translation,
+if that word isn't in the dictionary you can add it, the dictionary has some 
+suggestion word similar to what you search if there isn't in the dictionary.
+
+Dependecies of project:
+
+	1-arabic_reshaper
+
+	2-yaml
+
+	3-termcolor
+
+IDE: Visual Studio Code
